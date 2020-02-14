@@ -1,0 +1,28 @@
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
+import AddMessage from './AddMessage';
+import MessageHistory from './MessageHistory';
+
+class ChatWindow extends Component{
+    onMessage = message =>{
+        this.props.onMessage(this.props.user.username, message);
+    }
+    render(){
+        const { messages,user} = this.props;
+        return(
+            <div className="chat-window">
+               <h2>Awesome Chat</h2> 
+               <div className="name sender">{user.username}</div>
+               <MessageHistory messages={messages} user={user}/>
+               <AddMessage onHandleMessage ={this.onMessage} />
+            </div>
+        )
+    }
+}
+
+ChatWindow.propTypes = {
+    onMessage : PropTypes.func.isRequired,
+    user: PropTypes.object.isRequired,
+    message : PropTypes.object.isRequired,
+}
+export default ChatWindow;
