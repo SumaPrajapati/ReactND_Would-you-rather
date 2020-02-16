@@ -1,68 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Would you rather - Project
 
-In the project directory, you can run:
+Would You Rather game project developed for React Nanodegree program. I used React and Redux for this application.
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Upload this repository using:<br />
+    * git clone https://github.com/SumaPrajapati/ReactND_Would-you-rather.git <br />
+    * cd ReactND_Would-you-rather <br />
+    * yarn install or npm install <br />
+    * The project run on the default browser: [http://localhost:3000](http://localhost:3000)
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Login Page
 
-### `yarn build`
+In login page choose username and just press `Login`.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![ ](file:///Users/sumanlataprajapati/Desktop/GitHubSubmit/would_You_rather/Capture_images/login_page.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Home Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This home page has all Unanswered and Answered questions. It's created by all three users.
 
-### `yarn eject`
+![ ](file:///Users/sumanlataprajapati/Desktop/GitHubSubmit/would_You_rather/Capture_images/home.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## New Question
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+User can create a new questions by using two options and it would be display on the home page.<br /> 
+Example: Would you rather? "stay in winter" or  "stay in summer". 
+ 
+ ![ ](file:///Users/sumanlataprajapati/Desktop/GitHubSubmit/would_You_rather/Capture_images/new_question.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## View Poll
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+In View Poll show the progress bar increase based on the user like the questions option. 
 
-## Learn More
+![ ](file:///Users/sumanlataprajapati/Desktop/GitHubSubmit/would_You_rather/Capture_images/view_poll.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Leaderboard
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Leaderboard page to show rank based on the number of total questions and answers of particular user.
 
-### Code Splitting
+![ ](file:///Users/sumanlataprajapati/Desktop/GitHubSubmit/would_You_rather/Capture_images/leaderboard.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### Logout
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+If user click `Logout` from "Would you rather" game and show up the login page.
