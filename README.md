@@ -36,13 +36,13 @@ Example: Would you rather? "stay in winter" or  "stay in summer".
 
 In View Poll show the progress bar increase based on the user like the questions option. 
 
-![ ](file:///Users/sumanlataprajapati/Desktop/GitHubSubmit/would_You_rather/Capture_images/view_poll.png)
+![ ](screenshot/view_poll1.png)
 
 ## Leaderboard
 
 Leaderboard page to show rank based on the number of total questions and answers of particular user.
 
-![ ](file:///Users/sumanlataprajapati/Desktop/GitHubSubmit/would_You_rather/Capture_images/leaderboard.png)
+![ ](screenshot/leaderboard.png)
 
 ### Logout
 
