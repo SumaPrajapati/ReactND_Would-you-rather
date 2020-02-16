@@ -17,7 +17,7 @@ Upload this repository using:<br />
 
 In login page choose username and just press `Login`.
 
-![ ](file:///Users/sumanlataprajapati/Desktop/GitHubSubmit/would_You_rather/Capture_images/login_page.png)
+![ ](screenshot/login_page.png)
 
 ## Home Page
 
