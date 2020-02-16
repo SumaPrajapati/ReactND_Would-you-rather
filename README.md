@@ -30,7 +30,7 @@ This home page has all Unanswered and Answered questions. It's created by all th
 User can create a new questions by using two options and it would be display on the home page.<br /> 
 Example: Would you rather? "stay in winter" or  "stay in summer". 
  
- ![ ](file:///Users/sumanlataprajapati/Desktop/GitHubSubmit/would_You_rather/Capture_images/new_question.png)
+ ![ ](screenshot/new_question.png)
 
 ## View Poll
 
