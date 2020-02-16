@@ -23,7 +23,7 @@ In login page choose username and just press `Login`.
 
 This home page has all Unanswered and Answered questions. It's created by all three users.
 
-![ ](file:///Users/sumanlataprajapati/Desktop/GitHubSubmit/would_You_rather/Capture_images/home.png)
+![ ](screenshot/home.png)
 
 ## New Question
 
