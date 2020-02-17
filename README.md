@@ -40,10 +40,10 @@ In View Poll show the progress bar increase based on the user like the questions
 
 ## Leaderboard
 
-Leaderboard page to show rank based on the number of total questions and answers of particular user.
+Leaderboard page to show rank based on the total number of questions and answers of particular user.
 
 ![ ](screenshot/leaderboard.png)
 
 ### Logout
 
-If user click `Logout` from "Would you rather" game and show up the login page.
+If user want change user or logout from "Would you rather" application so click `Logout` and it would be appear the login page.
