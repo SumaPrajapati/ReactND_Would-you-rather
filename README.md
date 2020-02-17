@@ -1,7 +1,7 @@
 
 # Would you rather - Project
 
-Would You Rather game project developed for React Nanodegree program. I used React and Redux for this application.
+Would You Rather game project developed for React Nanodegree program. I used React and Redux for this application. It's second project of Udacity program.
 
 
 ## Installation
@@ -15,7 +15,7 @@ Upload this repository using:<br />
 
 ## Login Page
 
-In login page choose username and just press `Login`.
+In login page choose username from dropdown window and just press `Login`, so user would be login in the "would you rather" app project and it's show the Home page.
 
 ![ ](screenshot/login_page.png)
 
