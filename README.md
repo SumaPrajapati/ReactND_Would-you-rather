@@ -7,10 +7,10 @@ Would You Rather game project developed for React Nanodegree program. I used Rea
 ## Installation
 
 Upload this repository using:<br />
-    * git clone https://github.com/SumaPrajapati/ReactND_Would-you-rather.git <br />
-    * cd ReactND_Would-you-rather <br />
-    * yarn install or npm install <br />
-    * The project run on the default browser: [http://localhost:3000](http://localhost:3000)
+    - git clone https://github.com/SumaPrajapati/ReactND_Would-you-rather.git <br />
+    - cd ReactND_Would-you-rather <br />
+    - yarn install or npm install <br />
+    - The project run on the default browser: [http://localhost:3000](http://localhost:3000)
 
 
 ## Login Page
